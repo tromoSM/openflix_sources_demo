@@ -23,7 +23,7 @@
             "type":"embed",
             "optional":{
                 "disable_sandbox":false,
-                "comment":"demo",
+                "comment":"demo"
             },
             "attributes":{
                 "popup_ads":false,
